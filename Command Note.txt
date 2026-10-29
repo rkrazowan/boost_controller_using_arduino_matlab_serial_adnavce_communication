@@ -1,0 +1,11 @@
+Crete the Repository. Remember dont check the 
+And the go to the folder that you want to upload/push to the the repository 
+and right click the mouse and open- git bash here 
+then run the command 
+git init
+git status 
+git add -A
+git status
+git commit -m "Set a name of the file"
+git remote add origin https://github.com/rkrazowan/Smart-Aqua-pump-Monitoring-and-controlling-Project.git
+git push origin master
